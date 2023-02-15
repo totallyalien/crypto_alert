@@ -1,0 +1,7 @@
+account_sid =""
+auth_token = ""
+from_number=""
+MAIL_ID=""
+TO_MAIL=""
+MAIL_PASS=""
+TO_NUMBER=""
